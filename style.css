@@ -10,7 +10,7 @@
 body{
     width:100%;
     height: 100vh;
-    background: #282A36;
+    background: #0D1117;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -94,7 +94,7 @@ body{
   
   /* visited link */
   a:visited {
-    color: rgb(82,74, 235);
+    color: rgb(31, 28, 92);
   }
   
   /* mouse over link */
